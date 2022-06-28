@@ -52,13 +52,6 @@ body {
     display: block;
 }
 
-.wbox:hover {
-    background-color: white;
-    color: black;
-
-    transition: background-color 0.8s ease-in-out, color 0.8s ease-in-out;
-}
-
 .icons {
     display: flex;
     justify-content: center;
@@ -110,10 +103,6 @@ a {
     margin-bottom: 20px;
 }
 
-.ibox:hover .ib {
-    background-color: white;
-    transition: color 0.8s ease-in-out;
-}
 .ib {
     font-weight: bolder;
     color: rgb(230, 230, 230);
